@@ -1,0 +1,4 @@
+LLaMA-finetuned-models/
+important-checkpoints/
+*.o*
+*.e*
